@@ -20,3 +20,5 @@ Classic 2048 game functionality
 Dockerized application for easy local development and deployment
 Deployed to AWS using Elastic Beanstalk for scaling and management
 Hosted via NGINX
+
+![2048 Game](2048.png)
