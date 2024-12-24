@@ -1,4 +1,5 @@
 2048 Game with Docker and AWS Elastic Beanstalk
+
 This project contains the classic 2048 game, which is deployed using Docker and hosted on AWS Elastic Beanstalk (EBL). It includes a Dockerized environment for easy setup and deployment.
 
 Table of Contents
